@@ -4,14 +4,14 @@ Made this as my first project since im learning python rn.
 
 ## Installation
 
-# Win
+### Win
 ```
 Firstly Download the repo
 then
 $ pip install -r requirements.txt
 $ python main.py
 ```
-# Linux
+### Linux
 ```
 $ apt update
 $ apt upgrade
