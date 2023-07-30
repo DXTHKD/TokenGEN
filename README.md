@@ -11,7 +11,7 @@ then
 $ pip install -r requirements.txt
 $ python main.py
 ```
-### Linux
+### ---Linux---
 ```
 $ apt update
 $ apt upgrade
