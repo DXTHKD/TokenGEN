@@ -11,15 +11,7 @@ then
 $ pip install -r requirements.txt
 $ python main.py
 ```
-### ---Linux---
-```
-$ apt update
-$ apt upgrade
-$ apt install git
-$ git clone https://github.com/DXTHKD/TokenGEN.git
-$ cd TokenGEN 
-$ pip install -r requirements.txt
-$ python3 main.py
-```
+### Linux
+script needs to be redone for linux compatibility
 
 Enjoy!
